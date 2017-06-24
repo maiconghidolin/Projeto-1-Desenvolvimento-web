@@ -23,3 +23,6 @@ twbs:bootstrap
 jquery
 fortawesome:fontawesome
 themeteorchef:jquery-validation
+accounts-ui
+accounts-facebook
+facebook-config-ui

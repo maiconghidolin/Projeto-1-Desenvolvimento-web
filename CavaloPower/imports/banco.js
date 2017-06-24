@@ -1,3 +1,2 @@
 import { Mongo } from 'meteor/mongo';
-Imagens = new Mongo.Collection("Imagens");
-	
+Sugestoes = new Mongo.Collection("Sugestoes");
