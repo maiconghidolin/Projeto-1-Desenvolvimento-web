@@ -227,12 +227,3 @@ Template.modalSugestao.onRendered(function() {
         }
     });
 });
-
-
-/*
-        var scrollToElement = function(el) {
-            $('html,body').animate({
-                scrollTop: $(el).offset().top - 70
-            }, 1000);
-        }
-*/
